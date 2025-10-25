@@ -1,1 +1,1 @@
-# Simple REST API project for academic purposes 
+Simple REST API project for academic purposes 
